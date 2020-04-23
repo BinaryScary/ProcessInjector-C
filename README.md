@@ -1,7 +1,9 @@
 # ProcessInjector-C
 A Process Injector build in C using windows API.
+
+### Usage
 ```
-Usage: ProcessInjector [PID] [DLL.dll]
+ProcessInjector [PID] [DLL.dll]
 ```
 
 Procedure:
